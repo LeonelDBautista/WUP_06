@@ -83,10 +83,14 @@ However, this pattern does not hold true when examining other racial groups; in 
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+table1 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table1)
+```
 
+As seen here, almost double the percentage of white people are in favor of capitol punishment.   
 
-
-
+The black and other races are much closer to a 50:50 split.   
 
 ## Inferential Results
 
