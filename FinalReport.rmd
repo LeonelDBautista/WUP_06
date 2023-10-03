@@ -122,3 +122,10 @@ We also wee that most of the p-values are lower than 0.05 but this has little ap
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Through both visual representation and numerical analysis, it is evident that disparities exist in the data. Specifically, individuals identifying as white demonstrate a greater inclination towards supporting capital punishment compared to black and other racial groups.   
+
+Having established a statistically significant difference in the data, particularly in the relationship between White and Black races, we can confidently reject the null hypothesis ($H_0$) in favor of the alternative hypothesis ($H_A$), affirming this distinction.      
+
+This implies a correlation in this context. However, further research is imperative to conclusively determine the causation, whether it stems from social influences or other factors.   
+
