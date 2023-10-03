@@ -64,7 +64,14 @@ If there is a difference in the data, to identify its course we will run a Fishe
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question. Bottom line is to explain the features of the graph that are relevant to conforming or departing to what is expected by your null hypothesis !-->
 
+```{r}
+barchartGC(~race + cappun,data=mydata)
+barchartGC(~race + cappun,data=mydata, type="percent")
+```
 
+In the visual portrayal of our data, it is apparent that there is an imbalance in favor of capital punishment among white individuals.  
+
+However, this pattern does not hold true when examining other racial groups; in fact, a greater number of black individuals express opposition to capital punishment.   
 
 ## Now with LESS data (more variables give less data due to NA's) create the approate graphic displays to answer the question.
 
