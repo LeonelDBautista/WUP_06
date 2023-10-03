@@ -129,3 +129,13 @@ We also wee that most of the p-values are lower than 0.05 but this has little ap
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Through both graphical representation and numerical analysis, we have demonstrated notable disparities within the data. Specifically, the white demographic exhibits a higher inclination towards favoring capital punishment compared to black and other racial groups.   
+
+After establishing a statistically significant variance in the data, particularly in the relationship between White and Black races, we reject the null hypothesis ($H_0$) and affirm the alternative hypothesis ($H_A$) to support this distinction.   
+
+In the second branch, we examined a similar data structure but with a smaller sample size. Within this subgroup, we obtained comparable outcomes in both the bar graph and percentage-based numerical results. Instead of multiple critical p-values, we observed only one critical p-value and a reduced Chi-Squared Statistic (from 80 to 19).   
+
+Evidently, as the dataset expands, more disparities emerge.   
+
+In this instance, we can assert a correlation; however, further research is imperative to conclusively determine the causation, whether it be social or stemming from some other factor.   
